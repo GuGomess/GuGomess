@@ -1,9 +1,11 @@
-### Seja bem vindo ao meu perfil, fique à vontade para explorar meus repositórios
+### Olá! Me chamo Gustavo!
+### Fique à vontade para explorar meus repositórios.
+##
  
  <div>
   <a href="https://github.com/GuGomess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuGomess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGomess&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuGomess&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
   
