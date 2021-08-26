@@ -1,5 +1,4 @@
-### Olá! Me chamo Gustavo!
-### Fique à vontade para explorar meus repositórios.
+### Olá! Fique à vontade para explorar meus repositórios.
 ##
  
  <div>
