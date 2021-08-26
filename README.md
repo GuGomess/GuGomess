@@ -26,13 +26,12 @@
  
  <!-- ABA CONTATOS -->
 <div> 
+ <h3> Entre em contato comigo! </h3>
+ <a href="https://www.linkedin.com/in/gustavogomesferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavo6173@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavogomesferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
  
  <!-- SNAKE GAME! -->
   ![Snake animation](https://github.com/GuGomess/GuGomess/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-
